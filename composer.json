@@ -1,0 +1,14 @@
+{
+    "name": "home_task/home_task",
+    "type": "project",
+    "description": "A simpe Project",
+    "license": "",
+    "keywords": [],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app//"
+        }
+    }
+}
